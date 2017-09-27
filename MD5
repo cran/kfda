@@ -1,0 +1,6 @@
+0682cb80eb2574168f6cac8cc60f56af *DESCRIPTION
+db6ea379a1bf172c0364051b31d4eb01 *NAMESPACE
+c68c693006c3677868beb346bdc31b35 *R/kfda.R
+cd26957a93ba00a56cd8c52545c2aa7d *R/kfda.predict.R
+a3372d68602ba93023d55b2a278a0ecb *man/kfda.Rd
+57c984b282361860ba9249d6b9c7abad *man/kfda.predict.Rd
